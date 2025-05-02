@@ -1,0 +1,7 @@
+Tasty Hub - Payment Receipt
+----------------------------
+Total Amount: $32.99
+Payment Method: Credit/Debit Card
+----------------------------
+Thank you for your order!
+Your receipt is saved as a .txt file.

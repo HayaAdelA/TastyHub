@@ -1,0 +1,7 @@
+Tasty Hub - Payment Receipt
+----------------------------
+Total Amount: $39.0
+Payment Method: Cash
+----------------------------
+Thank you for your order!
+Your receipt is saved as a .txt file.
